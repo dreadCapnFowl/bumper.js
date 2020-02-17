@@ -1,0 +1,2 @@
+# bumper.js
+Illegal bot 
